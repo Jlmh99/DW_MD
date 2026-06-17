@@ -1,0 +1,26 @@
+id,nombre,grado,turno,num_alumnos,tutor_nombre,estado
+1,TIDSM01,5A,matutino,27,Usuario 95,activo
+2,TIDSM02,1A,matutino,28,Usuario 52,activo
+3,TIDSM03,3A,vespertino,29,Usuario 64,activo
+4,TIDSM04,5A,vespertino,27,Usuario 50,activo
+5,TIDSM05,1A,vespertino,27,Usuario 10,activo
+6,TIDSM06,4A,vespertino,34,Usuario 34,activo
+7,TIDSM07,4A,matutino,34,Usuario 46,activo
+8,TIDSM08,5A,matutino,26,Usuario 29,activo
+9,TIDSM09,4A,matutino,30,Usuario 95,activo
+10,TIDSM10,6A,vespertino,32,Usuario 26,activo
+11,TIDSM11,3A,matutino,34,Usuario 99,activo
+12,TIDSM12,6A,vespertino,34,Usuario 89,activo
+13,TIDSM13,4A,matutino,26,Usuario 65,activo
+14,TIDSM14,4A,vespertino,28,Usuario 1,activo
+15,TIDSM15,5A,vespertino,30,Usuario 21,activo
+16,TIDSM16,4A,vespertino,27,Usuario 31,activo
+17,TIDSM17,1A,matutino,26,Usuario 71,activo
+18,TIDSM18,4A,vespertino,34,Usuario 54,activo
+19,TIDSM19,3A,matutino,29,Usuario 77,activo
+20,TIDSM20,3A,matutino,29,Usuario 1,activo
+21,TIDSM21,6A,vespertino,27,Usuario 4,activo
+22,TIDSM22,3A,matutino,32,Usuario 42,activo
+23,TIDSM23,1A,vespertino,26,Usuario 26,activo
+24,TIDSM24,1A,vespertino,32,Usuario 17,activo
+25,TIDSM25,6A,matutino,35,Usuario 34,activo
