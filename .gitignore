@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Airflow
+logs/
+
+# DBT
+target/
+dbt_packages/
+
+# Archivos temporales
+*.log

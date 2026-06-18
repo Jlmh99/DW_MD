@@ -1,101 +1,101 @@
 id,nombre,email,password,rol_id,activo,creado_en,telefono,departamento
-1,Usuario 1,usuario1@uteq.edu.mx,hash1,1,True,2026-01-01,4424037793,TI
-2,Usuario 2,usuario2@uteq.edu.mx,hash2,1,True,2026-01-01,4424798839,Administración
-3,Usuario 3,usuario3@uteq.edu.mx,hash3,1,True,2026-01-01,4421259318,Energías Renovables
-4,Usuario 4,usuario4@uteq.edu.mx,hash4,1,True,2026-01-01,4423638846,TI
-5,Usuario 5,usuario5@uteq.edu.mx,hash5,1,True,2026-01-01,4422160916,Mecatrónica
-6,Usuario 6,usuario6@uteq.edu.mx,hash6,1,True,2026-01-01,4427046995,Mecatrónica
-7,Usuario 7,usuario7@uteq.edu.mx,hash7,1,True,2026-01-01,4421546524,Energías Renovables
-8,Usuario 8,usuario8@uteq.edu.mx,hash8,1,True,2026-01-01,4423602313,Industrial
-9,Usuario 9,usuario9@uteq.edu.mx,hash9,1,True,2026-01-01,4427193773,Industrial
-10,Usuario 10,usuario10@uteq.edu.mx,hash10,1,True,2026-01-01,4424263536,Energías Renovables
-11,Usuario 11,usuario11@uteq.edu.mx,hash11,2,True,2026-01-01,4426070885,Industrial
-12,Usuario 12,usuario12@uteq.edu.mx,hash12,2,True,2026-01-01,4427376109,Energías Renovables
-13,Usuario 13,usuario13@uteq.edu.mx,hash13,2,True,2026-01-01,4421395620,TI
-14,Usuario 14,usuario14@uteq.edu.mx,hash14,2,True,2026-01-01,4423687585,Industrial
-15,Usuario 15,usuario15@uteq.edu.mx,hash15,2,True,2026-01-01,4421571902,Administración
-16,Usuario 16,usuario16@uteq.edu.mx,hash16,2,True,2026-01-01,4425235504,TI
-17,Usuario 17,usuario17@uteq.edu.mx,hash17,2,True,2026-01-01,4425339540,TI
-18,Usuario 18,usuario18@uteq.edu.mx,hash18,2,True,2026-01-01,4429007254,TI
-19,Usuario 19,usuario19@uteq.edu.mx,hash19,2,True,2026-01-01,4429932505,Administración
-20,Usuario 20,usuario20@uteq.edu.mx,hash20,2,True,2026-01-01,4425152514,Administración
-21,Usuario 21,usuario21@uteq.edu.mx,hash21,2,True,2026-01-01,4424641221,Administración
-22,Usuario 22,usuario22@uteq.edu.mx,hash22,2,True,2026-01-01,4423142229,TI
-23,Usuario 23,usuario23@uteq.edu.mx,hash23,2,True,2026-01-01,4421485933,Industrial
-24,Usuario 24,usuario24@uteq.edu.mx,hash24,2,True,2026-01-01,4424889073,TI
-25,Usuario 25,usuario25@uteq.edu.mx,hash25,2,True,2026-01-01,4428734926,Energías Renovables
-26,Usuario 26,usuario26@uteq.edu.mx,hash26,2,True,2026-01-01,4424688729,Industrial
-27,Usuario 27,usuario27@uteq.edu.mx,hash27,2,True,2026-01-01,4424001918,Energías Renovables
-28,Usuario 28,usuario28@uteq.edu.mx,hash28,2,True,2026-01-01,4425734922,Administración
-29,Usuario 29,usuario29@uteq.edu.mx,hash29,2,True,2026-01-01,4421988347,TI
-30,Usuario 30,usuario30@uteq.edu.mx,hash30,2,True,2026-01-01,4427845796,Mecatrónica
-31,Usuario 31,usuario31@uteq.edu.mx,hash31,2,True,2026-01-01,4427999569,Industrial
-32,Usuario 32,usuario32@uteq.edu.mx,hash32,2,True,2026-01-01,4429358738,Mecatrónica
-33,Usuario 33,usuario33@uteq.edu.mx,hash33,2,True,2026-01-01,4429952800,Industrial
-34,Usuario 34,usuario34@uteq.edu.mx,hash34,2,True,2026-01-01,4426979852,TI
-35,Usuario 35,usuario35@uteq.edu.mx,hash35,2,True,2026-01-01,4427369583,TI
-36,Usuario 36,usuario36@uteq.edu.mx,hash36,2,True,2026-01-01,4426368398,Energías Renovables
-37,Usuario 37,usuario37@uteq.edu.mx,hash37,2,True,2026-01-01,4421829556,Industrial
-38,Usuario 38,usuario38@uteq.edu.mx,hash38,2,True,2026-01-01,4422541720,Administración
-39,Usuario 39,usuario39@uteq.edu.mx,hash39,2,True,2026-01-01,4421117020,TI
-40,Usuario 40,usuario40@uteq.edu.mx,hash40,2,True,2026-01-01,4422135233,Industrial
-41,Usuario 41,usuario41@uteq.edu.mx,hash41,2,True,2026-01-01,4423059222,Administración
-42,Usuario 42,usuario42@uteq.edu.mx,hash42,2,True,2026-01-01,4423966237,Administración
-43,Usuario 43,usuario43@uteq.edu.mx,hash43,2,True,2026-01-01,4427243467,Energías Renovables
-44,Usuario 44,usuario44@uteq.edu.mx,hash44,2,True,2026-01-01,4425766962,Mecatrónica
-45,Usuario 45,usuario45@uteq.edu.mx,hash45,2,True,2026-01-01,4422969543,Mecatrónica
-46,Usuario 46,usuario46@uteq.edu.mx,hash46,2,True,2026-01-01,4424779466,Mecatrónica
-47,Usuario 47,usuario47@uteq.edu.mx,hash47,2,True,2026-01-01,4423895033,TI
-48,Usuario 48,usuario48@uteq.edu.mx,hash48,2,True,2026-01-01,4426686886,Industrial
-49,Usuario 49,usuario49@uteq.edu.mx,hash49,2,True,2026-01-01,4425585258,Administración
-50,Usuario 50,usuario50@uteq.edu.mx,hash50,2,True,2026-01-01,4427782901,Administración
-51,Usuario 51,usuario51@uteq.edu.mx,hash51,2,True,2026-01-01,4428331405,TI
-52,Usuario 52,usuario52@uteq.edu.mx,hash52,2,True,2026-01-01,4426063981,Energías Renovables
-53,Usuario 53,usuario53@uteq.edu.mx,hash53,2,True,2026-01-01,4425587686,Energías Renovables
-54,Usuario 54,usuario54@uteq.edu.mx,hash54,2,True,2026-01-01,4429679587,Energías Renovables
-55,Usuario 55,usuario55@uteq.edu.mx,hash55,2,True,2026-01-01,4428736907,Administración
-56,Usuario 56,usuario56@uteq.edu.mx,hash56,2,True,2026-01-01,4423724722,Mecatrónica
-57,Usuario 57,usuario57@uteq.edu.mx,hash57,2,True,2026-01-01,4427566687,Industrial
-58,Usuario 58,usuario58@uteq.edu.mx,hash58,2,True,2026-01-01,4422347490,Mecatrónica
-59,Usuario 59,usuario59@uteq.edu.mx,hash59,2,True,2026-01-01,4423707668,Administración
-60,Usuario 60,usuario60@uteq.edu.mx,hash60,2,True,2026-01-01,4424952007,TI
-61,Usuario 61,usuario61@uteq.edu.mx,hash61,2,True,2026-01-01,4424544965,Energías Renovables
-62,Usuario 62,usuario62@uteq.edu.mx,hash62,2,True,2026-01-01,4425073385,Industrial
-63,Usuario 63,usuario63@uteq.edu.mx,hash63,2,True,2026-01-01,4422346416,Industrial
-64,Usuario 64,usuario64@uteq.edu.mx,hash64,2,True,2026-01-01,4429485353,Industrial
-65,Usuario 65,usuario65@uteq.edu.mx,hash65,2,True,2026-01-01,4427445211,Mecatrónica
-66,Usuario 66,usuario66@uteq.edu.mx,hash66,2,True,2026-01-01,4428554313,Energías Renovables
-67,Usuario 67,usuario67@uteq.edu.mx,hash67,2,True,2026-01-01,4423062526,TI
-68,Usuario 68,usuario68@uteq.edu.mx,hash68,2,True,2026-01-01,4429325816,Industrial
-69,Usuario 69,usuario69@uteq.edu.mx,hash69,2,True,2026-01-01,4421590641,Industrial
-70,Usuario 70,usuario70@uteq.edu.mx,hash70,2,True,2026-01-01,4429016788,Mecatrónica
-71,Usuario 71,usuario71@uteq.edu.mx,hash71,2,True,2026-01-01,4423613826,Administración
-72,Usuario 72,usuario72@uteq.edu.mx,hash72,2,True,2026-01-01,4423991547,Energías Renovables
-73,Usuario 73,usuario73@uteq.edu.mx,hash73,2,True,2026-01-01,4424932459,Energías Renovables
-74,Usuario 74,usuario74@uteq.edu.mx,hash74,2,True,2026-01-01,4425021353,Administración
-75,Usuario 75,usuario75@uteq.edu.mx,hash75,2,True,2026-01-01,4424200321,Administración
-76,Usuario 76,usuario76@uteq.edu.mx,hash76,2,True,2026-01-01,4426754470,Administración
-77,Usuario 77,usuario77@uteq.edu.mx,hash77,2,True,2026-01-01,4425163269,Energías Renovables
-78,Usuario 78,usuario78@uteq.edu.mx,hash78,2,True,2026-01-01,4429190744,Mecatrónica
-79,Usuario 79,usuario79@uteq.edu.mx,hash79,2,True,2026-01-01,4422162131,Industrial
-80,Usuario 80,usuario80@uteq.edu.mx,hash80,2,True,2026-01-01,4428890078,Mecatrónica
-81,Usuario 81,usuario81@uteq.edu.mx,hash81,2,True,2026-01-01,4423884240,Energías Renovables
-82,Usuario 82,usuario82@uteq.edu.mx,hash82,2,True,2026-01-01,4428060706,Energías Renovables
-83,Usuario 83,usuario83@uteq.edu.mx,hash83,2,True,2026-01-01,4423734999,Administración
-84,Usuario 84,usuario84@uteq.edu.mx,hash84,2,True,2026-01-01,4427043273,TI
-85,Usuario 85,usuario85@uteq.edu.mx,hash85,2,True,2026-01-01,4427514076,Industrial
-86,Usuario 86,usuario86@uteq.edu.mx,hash86,2,True,2026-01-01,4428558789,Industrial
-87,Usuario 87,usuario87@uteq.edu.mx,hash87,2,True,2026-01-01,4428200649,Industrial
-88,Usuario 88,usuario88@uteq.edu.mx,hash88,2,True,2026-01-01,4427660816,Energías Renovables
-89,Usuario 89,usuario89@uteq.edu.mx,hash89,2,True,2026-01-01,4428487889,Mecatrónica
-90,Usuario 90,usuario90@uteq.edu.mx,hash90,2,True,2026-01-01,4424235231,Mecatrónica
-91,Usuario 91,usuario91@uteq.edu.mx,hash91,2,True,2026-01-01,4429457763,Mecatrónica
-92,Usuario 92,usuario92@uteq.edu.mx,hash92,2,True,2026-01-01,4423002426,Administración
-93,Usuario 93,usuario93@uteq.edu.mx,hash93,2,True,2026-01-01,4426105688,Industrial
-94,Usuario 94,usuario94@uteq.edu.mx,hash94,2,True,2026-01-01,4425133815,Mecatrónica
-95,Usuario 95,usuario95@uteq.edu.mx,hash95,2,True,2026-01-01,4425591089,Industrial
-96,Usuario 96,usuario96@uteq.edu.mx,hash96,2,True,2026-01-01,4426011907,Mecatrónica
-97,Usuario 97,usuario97@uteq.edu.mx,hash97,2,True,2026-01-01,4421207047,TI
-98,Usuario 98,usuario98@uteq.edu.mx,hash98,2,True,2026-01-01,4425997373,TI
-99,Usuario 99,usuario99@uteq.edu.mx,hash99,2,True,2026-01-01,4423242319,TI
-100,Usuario 100,usuario100@uteq.edu.mx,hash100,2,True,2026-01-01,4429104749,Mecatrónica
+1,Usuario 1,usuario1@uteq.edu.mx,hash1,1,True,01/01/2026,4424037793,TI
+2,Usuario 2,usuario2@uteq.edu.mx,hash2,1,True,01/01/2026,4424798839,Administracion
+3,Usuario 3,usuario3@uteq.edu.mx,hash3,1,True,01/01/2026,4421259318,Energias Renovables
+4,Usuario 4,usuario4@uteq.edu.mx,hash4,1,True,01/01/2026,N/A,TI
+5,Usuario 5,usuario5@gmail.com,hash5,1,True,01/01/2026,4422160916,Mecatronica
+6,Usuario 6,usuario6@uteq.edu.mx,hash6,1,True,01/01/2026,4427046995,Mecatronica
+7,Usuario 7,usuario7@uteq.edu.mx,hash7,1,True,01/01/2026,4421546524,Mecatronica
+8,Usuario 8,usuario8@uteq.edu.mx,hash8,1,True,01/01/2026,,Industrial
+9,Usuario 9,usuario9@uteq.edu.mx,hash9,1,True,01/01/2026,4427193773,Industrial
+10,Usuario 10,usuario10@uteq.edu.mx,hash10,1,True,01/01/2026,4424263536,Energias Renovables
+11,Usuario 11,usuario11@uteq.edu.mx,hash11,2,True,01/01/2026,4426070885,Industrial
+12,Usuario 12,usuario12uteq.edu.mx,hash12,2,True,01/01/2026,4427376109,Energias Renovables
+13,Usuario 13,usuario13@uteq.edu.mx,hash13,2,True,01/01/2026,4421395620,TI
+14,Usuario 14,usuario14@uteq.edu.mx,hash14,2,True,01/01/2026,4423687585,Industrial
+15,Usuario 15,usuario15@uteq.edu.mx,hash15,2,True,01/01/2026,4421571902,Administracion
+16,Usuario 16,usuario16@uteq.edu.mx,hash16,2,True,01/01/2026,,TI
+17,Usuario 17,usuario17@uteq.edu.mx,hash17,2,True,01/01/2026,4425339540,TI
+18,Usuario 18,usuario18@uteq.edu.mx,hash18,2,True,01/01/2026,4429007254,TI
+19,Usuario 19,usuario19@uteq.edu.mx,hash19,2,True,01/01/2026,4429932505,Administracion
+20,Usuario 20,usuario20@uteq.edu.mx,hash20,2,True,01/01/2026,no disponible,Administracion
+21,Usuario 21,usuario21@uteq.edu.mx,hash21,2,True,01/01/2026,4424641221,Administracion
+22,Usuario 22,usuario22@uteq.edu.mx,hash22,2,True,01/01/2026,4423142229,TI
+23,Usuario 23,usuario23@hotmail.com,hash23,2,True,01/01/2026,4421485933,Industrial
+24,Usuario 24,usuario24@uteq.edu.mx,hash24,2,True,01/01/2026,4424889073,TI
+25,Usuario 25,usuario25@uteq.edu.mx,hash25,2,True,01/01/2026,4428734926,Energias Renovables
+26,Usuario 26,usuario26@uteq.edu.mx,hash26,2,True,01/01/2026,4424688729,Industrial
+27,Usuario 27,usuario27@uteq.edu.mx,hash27,2,True,01/01/2026,4424001918,Energias Renovables
+28,Usuario 28,usuario28@uteq.edu.mx,hash28,2,True,01/01/2026,4425734922,Administracion
+29,Usuario 29,usuario29@uteq.edu.mx,hash29,2,True,01/01/2026,,TI
+30,Usuario 30,usuario30@uteq.edu.mx,hash30,2,True,01/01/2026,4427845796,Energias Renovables
+31,Usuario 31,usuario31@uteq.edu.mx,hash31,2,True,01/01/2026,4427999569,Industrial
+32,Usuario 32,usuario32@uteq.edu.mx,hash32,2,True,01/01/2026,4429358738,Mecatronica
+33,Usuario 33,usuario33@uteq.edu.mx,hash33,2,True,01/01/2026,4429952800,Industrial
+34,Usuario 34,usuario34uteq,hash34,2,True,01/01/2026,4426979852,TI
+35,Usuario 35,usuario35@uteq.edu.mx,hash35,2,True,01/01/2026,4427369583,TI
+36,Usuario 36,usuario36@uteq.edu.mx,hash36,2,True,01/01/2026,4426368398,Energias Renovables
+37,Usuario 37,usuario37@uteq.edu.mx,hash37,2,True,01/01/2026,4421829556,Industrial
+38,Usuario 38,usuario38@uteq.edu.mx,hash38,2,True,01/01/2026,4422541720,Administracion
+39,Usuario 39,usuario39@uteq.edu.mx,hash39,2,True,01/01/2026,4421117020,TI
+40,Usuario 40,usuario40@uteq.edu.mx,hash40,2,True,01/01/2026,4422135233,Industrial
+41,Usuario 41,usuario41@uteq.edu.mx,hash41,2,True,01/01/2026,4423059222,Administracion
+42,Usuario 42,usuario42@uteq.edu.mx,hash42,2,True,01/01/2026,,Administracion
+43,Usuario 43,usuario43@uteq.edu.mx,hash43,2,True,01/01/2026,4427243467,Energias Renovables
+44,Usuario 44,usuario44@uteq.edu.mx,hash44,2,True,01/01/2026,4425766962,Mecatronica
+45,Usuario 45,usuario45@uteq.edu.mx,hash45,2,True,01/01/2026,4422969543,Mecatronica
+46,Usuario 46,usuario46@uteq.edu.mx,hash46,2,True,01/01/2026,4424779466,Mecatronica
+47,Usuario 47,usuario47@uteq.edu.mx,hash47,2,True,01/01/2026,4423895033,TI
+48,Usuario 48,usuario48@uteq.edu.mx,hash48,2,True,01/01/2026,4426686886,Industrial
+49,Usuario 49,usuario49@uteq.edu.mx,hash49,2,True,01/01/2026,4425585258,Administracion
+50,Usuario 50,usuario50@uteq.edu.mx,hash50,2,True,01/01/2026,4427782901,Administracion
+51,Usuario 51,usuario51@uteq.edu.mx,hash51,2,True,01/01/2026,4428331405,TI
+52,Usuario 52,usuario52@uteq.edu.mx,hash52,2,True,01/01/2026,4426063981,Energias Renovables
+53,Usuario 53,usuario53@uteq.edu.mx,hash53,2,True,01/01/2026,4425587686,Energias Renovables
+54,Usuario 54,usuario54@uteq.edu.mx,hash54,2,True,01/01/2026,4429679587,Energias Renovables
+55,Usuario 55,usuario55@uteq.edu.mx,hash55,2,True,01/01/2026,4428736907,Administracion
+56,Usuario 56,usuario56@uteq.edu.mx,hash56,2,True,01/01/2026,,Mecatronica
+57,Usuario 57,usuario57@uteq.edu.mx,hash57,2,True,01/01/2026,4427566687,Industrial
+58,Usuario 58,usuario58@uteq.edu.mx,hash58,2,True,01/01/2026,4422347490,Energias Renovables
+59,Usuario 59,usuario59@uteq.edu.mx,hash59,2,True,01/01/2026,4423707668,Administracion
+60,Usuario 60,usuario60@uteq.edu.mx,hash60,2,True,01/01/2026,4424952007,TI
+61,Usuario 61,usuario61@uteq.edu.mx,hash61,2,True,01/01/2026,4424544965,Energias Renovables
+62,Usuario 62,usuario62@uteq.edu.mx,hash62,2,True,01/01/2026,4425073385,Industrial
+63,Usuario 63,usuario63@uteq.edu.mx,hash63,2,True,01/01/2026,4422346416,Industrial
+64,Usuario 64,usuario64@uteq.edu.mx,hash64,2,True,01/01/2026,4429485353,Industrial
+65,Usuario 65,usuario65@uteq.edu.mx,hash65,2,True,01/01/2026,4427445211,Mecatronica
+66,Usuario 66,usuario66@uteq.edu.mx,hash66,2,True,01/01/2026,4428554313,Energias Renovables
+67,Usuario 67,usuario67@yahoo.com,hash67,2,True,01/01/2026,4423062526,TI
+68,Usuario 68,usuario68@uteq.edu.mx,hash68,2,True,01/01/2026,4429325816,Industrial
+69,Usuario 69,usuario69@uteq.edu.mx,hash69,2,True,01/01/2026,4421590641,Industrial
+70,Usuario 70,usuario70@uteq.edu.mx,hash70,2,True,01/01/2026,4429016788,Mecatronica
+71,Usuario 71,usuario71@uteq.edu.mx,hash71,2,True,01/01/2026,4423613826,Mecatronica
+72,Usuario 72,usuario72@uteq.edu.mx,hash72,2,True,01/01/2026,4423991547,Energias Renovables
+73,Usuario 73,usuario73@uteq.edu.mx,hash73,2,True,01/01/2026,4424932459,Energias Renovables
+74,Usuario 74,usuario74@uteq.edu.mx,hash74,2,True,01/01/2026,4425021353,Administracion
+75,Usuario 75,usuario75@uteq.edu.mx,hash75,2,True,01/01/2026,4424200321,Administracion
+76,Usuario 76,usuario76@uteq.edu.mx,hash76,2,True,01/01/2026,4426754470,Administracion
+77,Usuario 77,usuario77@uteq.edu.mx,hash77,2,True,01/01/2026,4425163269,Energias Renovables
+78,Usuario 78,usuario78@uteq.edu.mx,hash78,2,True,01/01/2026,4429190744,Mecatronica
+79,Usuario 79,usuario79@uteq.edu.mx,hash79,2,True,01/01/2026,4422162131,Industrial
+80,Usuario 80,usuario80@uteq.edu.mx,hash80,2,True,01/01/2026,4428890078,Mecatronica
+81,Usuario 81,usuario81@uteq.edu.mx,hash81,2,True,01/01/2026,4423884240,Energias Renovables
+82,Usuario 82,usuario82@uteq.edu.mx,hash82,2,True,01/01/2026,4428060706,Energias Renovables
+83,Usuario 83,usuario83@uteq.edu.mx,hash83,2,True,01/01/2026,4423734999,Administracion
+84,Usuario 84,usuario84@uteq.edu.mx,hash84,2,True,01/01/2026,4427043273,TI
+85,Usuario 85,usuario85@uteq.edu.mx,hash85,2,True,01/01/2026,4427514076,Industrial
+86,Usuario 86,usuario86@uteq.edu.mx,hash86,2,True,01/01/2026,4428558789,Industrial
+87,Usuario 87,usuario87@uteq.edu.mx,hash87,2,True,01/01/2026,4428200649,Industrial
+88,Usuario 88,usuario88@uteq.edu.mx,hash88,2,True,01/01/2026,4427660816,Energias Renovables
+89,Usuario 89,usuario89@uteq.edu.mx,hash89,2,True,01/01/2026,4428487889,Mecatronica
+90,Usuario 90,usuario90@uteq.edu.mx,hash90,2,True,01/01/2026,4424235231,Mecatronica
+91,Usuario 91,usuario91@uteq.edu.mx,hash91,2,True,01/01/2026,4429457763,Mecatronica
+92,Usuario 92,usuario92@uteq.edu.mx,hash92,2,True,01/01/2026,4423002426,Administracion
+93,Usuario 93,usuario93@uteq.edu.mx,hash93,2,True,01/01/2026,4426105688,Industrial
+94,Usuario 94,usuario94@uteq.edu.mx,hash94,2,True,01/01/2026,4425133815,Mecatronica
+95,Usuario 95,usuario95@uteq.edu.mx,hash95,2,True,01/01/2026,4425591089,Industrial
+96,Usuario 96,usuario96@uteq.edu.mx,hash96,2,True,01/01/2026,4426011907,Mecatronica
+97,Usuario 97,usuario97@uteq.edu.mx,hash97,2,True,01/01/2026,4421207047,TI
+98,Usuario 98,usuario98@uteq.edu.mx,hash98,2,True,01/01/2026,4425997373,TI
+99,Usuario 99,usuario99@uteq.edu.mx,hash99,2,True,01/01/2026,4423242319,TI
+100,Usuario 100,usuario100@uteq.edu.mx,hash100,2,True,01/01/2026,4429104749,Mecatronica

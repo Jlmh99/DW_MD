@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: staging
+    database: dw_magic_doors
+    schema: public
+    tables:
+      - name: stg_usuarios
+      - name: stg_roles
+      - name: stg_aulas
+      - name: stg_materias
+      - name: stg_grupos
+      - name: stg_sesiones_aula
+      - name: stg_registro_accesos
+      - name: stg_qr_dinamicos
